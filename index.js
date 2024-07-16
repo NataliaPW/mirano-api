@@ -12,7 +12,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: ['http://127.0.0.1:5501', 'http://localhost:5173', 'https://mirano-api-yv04.onrender.com'], // Замените на URL вашего фронтенда
+  origin: ['http://127.0.0.1:5501', 'http://localhost:5173', 'https://mirano-api-wp4f.onrender.com'], // Замените на URL вашего фронтенда
   credentials: true,
 };
 
